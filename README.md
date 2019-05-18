@@ -6,12 +6,7 @@ This application is a checkers game. You can use the board (application) to play
 
 ## How to Run?
 
-Compile the java file and run it using the following commands in the terminal:
-
-```
-javac Decrypt.java
-java Decrypt [key] [input file] [output file]
-```
+Opne the ".jar" file as a normal application (double-click):
 
 ## Authors
 
